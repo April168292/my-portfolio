@@ -1,0 +1,47 @@
+nav ul{
+    background-color:pink;
+    list-style-type:none;
+    width: 100%;
+    padding: 10px;
+    color: purple;
+    
+    
+
+}
+
+nav li{
+    display: inline;
+    margin:50px;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+h2{
+    color: purple;
+    background-color: pink;
+}
+
+html{
+    background-color: hotpink;
+}
+
+
+#side{
+    float: left;
+    width: 35%;
+    text-align: center;
+    
+    
+}
+
+#left{
+  float:left;
+  width: 60%;
+}
+
+#profile-image{
+    width: 200px;
+}
